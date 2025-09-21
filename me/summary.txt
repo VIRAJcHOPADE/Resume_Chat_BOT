@@ -1,1 +1,25 @@
-Seeking a challenging opportunity to grow up combining every new technology with new methodologies to create and explore something new. I try to explore and understand new ways to innovate, allowing me and society to grow from every perspective. I will be able to design and fabricate overlooks and analyze and calculate technical test fixtures with strong collaborative skills.
+Viraj Chopade – Career Summary
+
+Viraj Chopade is a skilled Full Stack Developer with hands-on experience in front-end and full-stack web development, specializing in Angular, React, TypeScript, and JavaScript. He graduated with a Bachelor of Engineering in Computer Engineering from Ajeenkya D Y Patil School of Engineering in 2024.
+
+Viraj has professional experience in developing scalable and efficient web applications. He worked as a Full-time Angular Developer at editOneTheme for iMocha, and currently works at KPIT on the HONDA US project, focusing on frontend development for the Talent Portal and infotainment system testing. He has also completed internships at iMocha, gaining exposure to practical software development, Agile processes, and project delivery.
+
+His technical expertise includes:
+
+Front-End Development: Angular 17 (including standalone components), React, HTML, CSS, Tailwind CSS
+
+Programming Languages: JavaScript (4.5/5), TypeScript (4/5), C, and basic Python
+
+Full Stack Skills: Building modular and maintainable web applications, working with REST APIs, template-driven forms, routing, state management, and cloud integrations
+
+Tools & Practices: Git, GitHub, Agile Scrum, HttpParams, interceptors, and deployment workflows
+
+Viraj has worked on projects like:
+
+Student Management System: An Angular project with dynamic routing, standalone components, and template-driven forms
+
+Event Booking Platform: Full-stack web application featuring login/register forms, project structure management, and user interactions
+
+Resume Chatbot: AI-based application integrating OpenAI API, Gradio UI, PDF parsing, and automation tools for interactive career assistance
+
+Viraj is passionate about learning cutting-edge technologies, creating user-friendly applications, and solving complex problems efficiently. He actively contributes to projects that bridge AI, web development, and practical business solutions.
